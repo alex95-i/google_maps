@@ -1,3 +1,5 @@
+
+
 <?php
     wp_enqueue_style( 'adverts-frontend' );
     wp_enqueue_style( 'adverts-icons' );
@@ -122,7 +124,7 @@
             // $Country = join( " / ", advert_category_path( $c ) );
              $all = $Address.", ".$Location;
              ?>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDijsd8yNKg0PnM3bfX8uaHKjhtbFYEqpw&callback=initMap"
+    <script src="KEY"
     async defer></script>       
    <div id="map"> </div>
                 </br>
