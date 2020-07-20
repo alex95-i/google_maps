@@ -1,4 +1,7 @@
-
+<!-- 
+Google maps api integration by using location data out of the form.
+example: 'https://hobbybobby.xyz/advert/museum-advert-sample/'
+ -->
 
 <?php
     wp_enqueue_style( 'adverts-frontend' );
